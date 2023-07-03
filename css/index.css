@@ -4,7 +4,7 @@ nav.floating {
     position: absolute;
     top: 100px;
     left: 50px;
-    background-color: #d0d0d0;    
+    background-color: #fa0000;    
 }
 
 .first-view {
@@ -26,7 +26,7 @@ nav.floating {
     padding-right: 80px;
     color:#ffffff;
     font-weight: bold;
-    text-shadow: 1px 1px 10px #4b2c14;
+    text-shadow: 1px 1px 10px #ff6f00;
 }
 .first-view-text h1{
     font-family: 'Montserrat',sans-serif;
